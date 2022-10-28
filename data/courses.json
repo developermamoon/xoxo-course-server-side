@@ -9,6 +9,7 @@
         "total_view": 488,
         "Course_fee": 40000,
         "course_duration": 6,
+        "softwares": "['Adobe Photoshop', 'Adobe Illustrator', 'Adobe XD', 'Adobe InDesign','Microsoft Office PowerPoint']",
         "title": "Professional Graphic Design",
         "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1665409737.jpg",
         "image_url": "https://www.creativeitinstitute.com/images/course/course_1665409737.jpg",
@@ -24,6 +25,7 @@
         "total_view": 488,
         "Course_fee": 40000,
         "course_duration": 6,
+        "softwares": "['Adobe Photoshop', 'Adobe After Effects', 'Adobe Premiere Pro', 'Maxon Cinema 4D','Redshift Render Engine', 'Adobe Photoshop']",
         "title": "Motion Graphics",
         "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1662552115.jpg",
         "image_url": "https://www.creativeitinstitute.com/images/course/course_1662552115.jpg",
@@ -178,5 +180,230 @@
         "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1662804460.jpg",
         "image_url": "https://www.creativeitinstitute.com/images/course/course_1662804460.jpg",
         "details": "How to train a machine to do a task is the basic concept of machine learning. So in our course you will learn how to use any algorithm and library. Moreover, you will learn everything from Python basics to logic development from here. Machine learning skills are at the top of the required IT skills in today's era. Machine learning has a lot of career potential in the near future. Currently, the demand for machine learning engineers is increasing in large technology organizations as well as in general organizations. Various organizations are encouraging to use the various information of the organization to get the necessary benefits from it. So if you want to work in machine learning, then machine learning course can be your best career choice."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6digital1",
+        "category_id": "03",
+        "rating": {
+            "number": 4.0,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "Course_fee": 16000,
+        "course_duration": 6,
+        "title": "Digital Marketing",
+        "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1662724358.jpg",
+        "image_url": "https://www.creativeitinstitute.com/images/course/course_1662724358.jpg",
+        "details": "To be an efficient digital marketer you need to be well versed in digital platforms. And for that, everything you need to know is in our course. From Basic Keyword Research (Keywords Research) and Competitor Analysis (Competitor Analysis) to SEO (SEO), Social Media Marketing (Social Media Marketing), Affiliate Marketing (Affiliate Marketing) details are all there in our digital marketing course. Nowadays there are numerous e-commerce sites on the internet. It is necessary to know the right technique to bring in search engine ranking like various service pages. That's why e-commerce SEO (eCommerce SEO) and Service Page SEO (Service Page SEO) are included in our course. So our digital marketing course can be your best choice to develop skills in online marketing techniques."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6digital2",
+        "category_id": "03",
+        "rating": {
+            "number": 4.0,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "Course_fee": 16000,
+        "course_duration": 6,
+        "title": "Affiliate Marketing",
+        "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1663052131.jpg",
+        "image_url": "https://www.creativeitinstitute.com/images/course/course_1663052131.jpg",
+        "details": "There are over 11,500 affiliate programs in America alone. An affiliate marketer can earn commission by selling products or services by joining the program of his choice. This commission ranges from around 5% to 30% depending on the category and company. Our affiliate marketing course will help you increase sales and understand marketing strategies. Also, you can learn everything in detail about how to choose the right topic for you and create a website from this course. Moreover, you will get an idea about the market trends from the research process in the course. The most important thing is that you will get the guidance of skilled mentors here. So Creative IT Institute's doors are always open for you to become a successful affiliate marketer."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6digital3",
+        "category_id": "03",
+        "rating": {
+            "number": 4.0,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "Course_fee": 16000,
+        "course_duration": 6,
+        "title": "Google Adsense",
+        "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1663052296.jpg",
+        "image_url": "https://www.creativeitinstitute.com/images/course/course_1663052296.jpg",
+        "details": "Google AdSense advertises on a website, blogsite or YouTube channel depending on the quality of the content and the number of visitors. In this way, the owner of the platform gets money by advertising Google on any website, blog site or YouTube channel. But to work here, you need to know the rules and regulations along with the detailed work. So our courses teach details of PPC or Pay-per-click including keyword research, AdSense friendly content writing, website and YouTube monetization. Moreover, you will get guidelines or mapping from the mentors to learn how to make your own place in the marketplace. Enroll today in our Google Adsense course to learn more about Adsense."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6digital4",
+        "category_id": "03",
+        "rating": {
+            "number": 4.0,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "Course_fee": 16000,
+        "course_duration": 6,
+        "title": "Content Marketing",
+        "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1663052533.jpg",
+        "image_url": "https://www.creativeitinstitute.com/images/course/course_1663052533.jpg",
+        "details": "There is no alternative to using the right content to learn marketing strategies for online business products or services. Hence our course emphasizes on learning to write blogs, social media posts, web content. How to write to get more visitors or create a marketing plan, you can learn the whole process from our content marketing course. In this course, you will know the technique of how content can reach the audience. This course will help you learn what content marketing principles look like for different platforms like Facebook, Pinterest, Quora or e-mail. So if you want to learn effective content marketing, enroll in Creative IT Institute's content marketing course today."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6digital5",
+        "category_id": "03",
+        "rating": {
+            "number": 4.0,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "Course_fee": 16000,
+        "course_duration": 6,
+        "title": "Search Engine Optimization",
+        "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1662962744.jpg",
+        "image_url": "https://www.creativeitinstitute.com/images/course/course_1662962744.jpg",
+        "details": "According to a survey, most businesses spend more than $5,000 per month on SEO alone. Because by SEO every page of any website is brought to the first place of search results in different search engines based on specific keywords. So the success of your blog site, website or video channel depends on proper SEO. By learning SEO, you can earn good income in addition to freelancing in the freelance marketplace. Our course gives practical working concepts of SEO from basic to professional level. So by doing the course you will know about different ways to rank in search engines including on-page SEO, off-page SEO. The most important aspect of SEO is the article or content. The course will give you an idea about SEO friendly content. Along with this, you will get real work experience by completing the course project."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6digital6",
+        "category_id": "03",
+        "rating": {
+            "number": 4.0,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "Course_fee": 16000,
+        "course_duration": 6,
+        "title": "Social Media Marketing",
+        "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1663052587.jpg",
+        "image_url": "https://www.creativeitinstitute.com/images/course/course_1663052587.jpg",
+        "details": "Social platforms are an effective way to stay connected with customers or audiences. So currently 88 percent of companies are very active on social platforms. This course is designed in such a way that you can learn the best ways to market on each social platform. Whatever you do, you can learn everything you need to successfully market on Facebook, Instagram, YouTube and LinkedIn from the SMM course. Also learn how to optimize social media accounts. If you are an entrepreneur, then by taking the course, you can quickly convey your product or business to everyone. Besides, you can do remote work in any organization in the country or abroad as well as freelancing. Creative IT Institute's certified social media marketing course can be a bright milestone in your career."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6Animation1",
+        "category_id": "04",
+        "rating": {
+            "number": 4.0,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "Course_fee": 16000,
+        "course_duration": 6,
+        "title": "Professional 3D Animation",
+        "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1662866125.jpg",
+        "image_url": "https://www.creativeitinstitute.com/images/course/course_1662866125.jpg",
+        "details": "3D animation is when an animation is converted into 3D. As a 3D animator, your job is to create 3D animations and graphics for various digital applications, including videos, movies, and games, through software. That's why our course has various interesting topics from designing storyboards to character modeling and product modeling. You will get a clear idea about the basic costs of rendering and editing or lighting from this certified course. So if you know animation work well, there will be more chances to advance in your career. As there is a lot of demand, you can choose international or local market as the field of work in this sector."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6Animation2",
+        "category_id": "04",
+        "rating": {
+            "number": 4.0,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "Course_fee": 16000,
+        "course_duration": 6,
+        "title": "Interior & Exterior Design",
+        "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1663052405.jpg",
+        "image_url": "https://www.creativeitinstitute.com/images/course/course_1663052405.jpg",
+        "details": "Making use of every space through the proper use of furniture, lights, furnishings to present a home, office or any institution in a comfortable and aesthetic way is called interior design. And when the outside environment is planned or designed, it is exterior design. Interior and exterior design in the modern era is a combination of art and technology. So our interior & exterior design course covers everything from basic sketch up to restaurant or duplex house design. Moreover, this course will introduce you to some useful tools that will help you stay updated in this sector. Therefore, you can learn to build your own career in this technology-dependent, contemporary and creative profession of interior & exterior design."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6Animation3",
+        "category_id": "04",
+        "rating": {
+            "number": 4.0,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "Course_fee": 16000,
+        "course_duration": 6,
+        "title": "3D Product Modeling",
+        "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1663052435.jpg",
+        "image_url": "https://www.creativeitinstitute.com/images/course/course_1663052435.jpg",
+        "details": "Internet is an effective medium to stay connected with customers or audience all the time. 3D product modeling is a good way to present products to customers online. Through this you can present a 360 degree view of your product. So in our course you will learn the basics of lighting and color while using software like Sketch, Autodesk or Maya. Moreover, you can know the details of UV and complex UV in our course. Through various tasks throughout the course, you will be able to practice each topic hands-on, which will increase your working skills manifold. If you want to make a career in this field, then Creative IT Institute's certified 3D Product Modeling Course can be the bright milestone of your career."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6Animation4",
+        "category_id": "04",
+        "rating": {
+            "number": 4.0,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "Course_fee": 16000,
+        "course_duration": 6,
+        "title": "3D Floor Planning",
+        "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1663052460.jpg",
+        "image_url": "https://www.creativeitinstitute.com/images/course/course_1663052460.jpg",
+        "details": "3D Floor Plan is a virtual model of the floor plan of a building. With this plan you can make any floor design a reality. Therefore, before the office, house or any floor is completely ready, you can see the final design in notebook or virtually. So from our course you will get an idea about manual drawing to 2D modeling and 3D modeling. Also, at the end of the course, you can virtually visit any project. This certified course will keep you ahead in the competitive market. If you want to build a career in the trendiest course in keeping with the times, then 3D floor plan course is for you."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6Cyber1",
+        "category_id": "05",
+        "rating": {
+            "number": 4.0,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "Course_fee": 16000,
+        "course_duration": 6,
+        "title": "Cyber Security",
+        "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1662805700.jpg",
+        "image_url": "https://www.creativeitinstitute.com/images/course/course_1662805700.jpg",
+        "details": "Our course is designed in such a way that you learn the ins and outs of cyber security from scratch. Even if you are from non-technical background, you can easily do this course if you have interest. From the basics of network scanning to trendy topics like cryptography, you can learn from this course. Moreover, you can learn the details of amazing things like system hacking, web or mobile platform hacking with various tools and techniques from the course. And if the course is completed properly, the certificate remains. We are ready to accompany you on your cyber career journey with experienced mentors and modern labs, are you coming?"
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6Network1",
+        "category_id": "06",
+        "rating": {
+            "number": 4.0,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "Course_fee": 16000,
+        "course_duration": 6,
+        "title": "CISCO CCNA",
+        "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1663052637.jpg",
+        "image_url": "https://www.creativeitinstitute.com/images/course/course_1663052637.jpg",
+        "details": "CCNA is primarily a training course for those who are interested in working with computer networks or who want to pursue a career in the networking sector. Working in the networking industry, having a CCNA certification means that one is suitable for any entry-level job in the sector. So Creative IT's CCNA certification will help lay the foundation of your IT career. CCNA is a step-by-step pathway to other Cisco certifications. The course is designed in such a way that you can learn everything from the basics of networking to advanced with subnetting, routers. By completing this certified course with a skilled mentor, you will be ahead of others in the field of work. So enroll in Cisco CCNA course today to open the doors of possibilities in your IT career."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6Network2",
+        "category_id": "06",
+        "rating": {
+            "number": 4.0,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "Course_fee": 16000,
+        "course_duration": 6,
+        "title": "CompTIA Network+",
+        "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1663482069.jpg",
+        "image_url": "https://www.creativeitinstitute.com/images/course/course_1663482069.jpg",
+        "details": "The first characteristic of a CompTIA A+ certified person is that he is a problem solver. It is a great indicator of the competence and skills of a network expert. And in the job or work, the certificate holders get priority. In this way, career success comes quickly. That's why there is no substitute for CompTIA A+ courses to launch an IT career in the digital world. So in this course we teach both hardware and software aspects of networking. Moreover, our skilled mentors will always provide guidance on security and other aspects for all types of operating systems. By completing the course, you will be able to work as a networking professional in any organization from IT setup to its operation and maintenance more efficiently."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6Network3",
+        "category_id": "06",
+        "rating": {
+            "number": 4.0,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "Course_fee": 16000,
+        "course_duration": 6,
+        "title": "MicroTik",
+        "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1664447952.jpg",
+        "image_url": "https://www.creativeitinstitute.com/images/course/course_1664447952.jpg",
+        "details": "If you want to build a career as a network administrator or if you want to be skilled in IT security, there is no substitute for microtech skills. By doing this course you will be proficient in using Mikrotik networking products. By learning to work in this sector, you can easily do everything from configuring advanced firewalls, controlling the bandwidth of all IPs in the network, configuring a DHCP server like a common broadband router, etc. Moreover, after obtaining the certificate from Creative IT Institute's MikroTik course, there is an opportunity to work in various telecom companies, banks and financial institutions. So you can build a career in MikroTik in tune with the times."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6Film1",
+        "category_id": "07",
+        "rating": {
+            "number": 4.0,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "Course_fee": 16000,
+        "course_duration": 6,
+        "title": "Professinal Video Editing",
+        "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1663664208.png",
+        "image_url": "https://www.creativeitinstitute.com/images/course/course_1663664208.png",
+        "details": "According to a survey, an engaging video increases sales by up to 78 percent. But good video editing is a prerequisite for good video. Because a skilled editor can present even a simple concept in a great way through extraordinary editing. That's why the demand for professional video editors in various companies around the world has increased a lot. So our courses are designed with modern modules and modern software. Here you can learn about cinematography and soundtrack. Video editing skills will be very helpful for working with video post production and screenplay. If you want to be a YouTuber, then there is no question! Enroll in Video Editing Course for career skill development."
     }
 ]
