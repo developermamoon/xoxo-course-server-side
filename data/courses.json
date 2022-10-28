@@ -1,0 +1,170 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6graphic1",
+        "category_id": "01",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "Course_fee": 40000,
+        "title": "Professional Graphic Design",
+        "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1665409737.jpg",
+        "image_url": "https://www.creativeitinstitute.com/images/course/course_1665409737.jpg",
+        "details": "Being a successful graphic designer requires quality curriculum training as well as project-based work experience and a good understanding of the marketplace. So all these are included together in our course module. From the graphic design course you will learn to design any advertisement, banner, t-shirt design, product using Adobe Photoshop and Adobe Illustrator. Moreover, you get the opportunity to use modern lab for project based work. By completing the course this way, you will have practical work experience, which will help you to achieve quick success in the marketplace. So why the delay? Choose Creative IT Institute's Professional Graphic Design course today to enroll in a certified graphic design course."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6graphic2",
+        "category_id": "01",
+        "rating": {
+            "number": 4.8,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "Course_fee": 40000,
+        "title": "Motion Graphics",
+        "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1662552115.jpg",
+        "image_url": "https://www.creativeitinstitute.com/images/course/course_1662552115.jpg",
+        "details": "Elements of graphic design are presented in motion graphics through film or video production. For example, a motion graphics designer makes the short broadcasting video before the news broadcast on any TV channel. So our graphic design course is designed from the basics of graphic design. From this course you can learn 2D and 3D Motion Graphics; Through which you can easily create any social media ad. Moreover, you will learn the details of video editing, which will be helpful for you in making any commercial video. And the details of the animation are there. Don't have a computer with the necessary configuration for motion graphics? At Creative IT Institute you can come to our lab anytime during the course to practice class work."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6graphic3",
+        "category_id": "01",
+        "rating": {
+            "number": 4.9,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "Course_fee": 40000,
+        "title": "UI/UX Design",
+        "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1662637290.jpg",
+        "image_url": "https://www.creativeitinstitute.com/images/course/course_1662637290.jpg",
+        "details": "Where an app or site can have what options are designed through UX/UI Design. Demand for UX/UI designers has also increased hundreds of times for smart work and good salary. So our course will cover you with basic sketching. Learn how to create a flowchart for designing a website, app or banner here. You will learn the use of trendy software Adobe XD and Figma for UX/UI from this course. Moreover, by completing the course projects, you can create your portfolio at the end of the course from the class itself. This portfolio will be the milestone of your skills at the beginning of your career."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6graphic4",
+        "category_id": "01",
+        "rating": {
+            "number": 4.2,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "Course_fee": 40000,
+        "title": "Digital Image Editing",
+        "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1663051206.jpg",
+        "image_url": "https://www.creativeitinstitute.com/images/course/course_1663051206.jpg",
+        "details": "After completing image editing course, you can work in 1000+ clipping industries of the country, starting from internationally renowned e-commerce platforms to wedding photography, merchandise photography. So in our image editing course, from the basic concept of image editing to Image Retouching, Layer Pallet, Tools Based Class, Business Card Design, Facebook Cover Design, our course is arranged with everything important. Moreover, if you successfully complete this 3-month course, you can get a course completion certificate, which will serve as a milestone for your skills. So if you want to become a skilled image editor, then our image editing course can be your first choice."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6graphic5",
+        "category_id": "01",
+        "rating": {
+            "number": 4.0,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "Course_fee": 16000,
+        "title": "Adobe Photoshop",
+        "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1662639286.jpg",
+        "image_url": "https://www.creativeitinstitute.com/images/course/course_1662639286.jpg",
+        "details": "Do you want to be a professional photo editor? Then you must know the details of Adobe Photoshop. That's why in our course you will learn to create Advanced Web Templates starting from Image Resize. Moreover, for learning Photoshop, every step of Advanced Image Retouching, Banner, Poster, Flyer Design is taught by hand here. And the work of neck joint (Neck Joint), image masking (Image Masking), drop shadow (Drop Shadow) remains. Our skilled mentors emphasize Photoshop shortcuts for all methods. This way you can become a Photoshop expert with daily practice."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6graphic6",
+        "category_id": "01",
+        "rating": {
+            "number": 4.4,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "Course_fee": 16000,
+        "title": "Adobe Illustrator",
+        "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1663052023.jpg",
+        "image_url": "https://www.creativeitinstitute.com/images/course/course_1663052023.jpg",
+        "details": "You can create excellent graphics designs, logos, banners using one of the most popular software developed by Adobe Systems. Our Adobe Illustrator course is designed to help you develop your design and color skills. From here you will learn to master the areas of Pen Tool, Stroke, Transformation, Blending, Advanced Color and Concept. Throughout the course you will learn typography. Moreover, you will know the details of any material design such as logo and marketing, only if you take the Adobe Illustrator course, you will be able to make a good place for yourself in the local or marketplace."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6web1",
+        "category_id": "02",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "Course_fee": 16000,
+        "title": "Web Design",
+        "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1662791772.jpg",
+        "image_url": "https://www.creativeitinstitute.com/images/course/course_1662791772.jpg",
+        "details": "A web designer designs the entire navigation system, text, files, images, audio, video where to be in which part of a website. So to become a skilled web designer requires long term practice under quality organization. That's why our web design course is designed to combine coding and creativity. Here every subject is taught by hand in class. Moreover, you are repeatedly familiarized with the entire process with homework or practice work. As a result, at the end of the course, you will be able to design a website yourself. And this certified web design course will serve as a reminder of your skills in your career."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6web2",
+        "category_id": "02",
+        "rating": {
+            "number": 4.9,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "Course_fee": 16000,
+        "title": "Web Development",
+        "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1663052056.jpg",
+        "image_url": "https://www.creativeitinstitute.com/images/course/course_1663052056.jpg",
+        "details": "Web development is the process of making the information stored on the web server as a website through the Internet and making it usable. So as long as there are websites, there will be demand for web development. That is why the scope of work of web developers is increasing day by day. That is why our course is designed with updated modules. Everything from basic SQL to building professional skills is covered here. By doing practical projects you can learn fast and build a smart portfolio during the course. And if you complete the course properly, you will get the course completion certificate. So start your web development career with Creative IT Institute's modern and world class modules and experienced trainers."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6web3",
+        "category_id": "02",
+        "rating": {
+            "number": 4.7,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "Course_fee": 16000,
+        "title": "Mern Stack Development",
+        "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1662795698.jpg",
+        "image_url": "https://www.creativeitinstitute.com/images/course/course_1662795698.jpg",
+        "details": "In computer software and application development, a full-stack developer is a person who has the skills to manage, project plan, and develop front-end, back-end, and software code. So our course is designed in such a way that after completing the course you can work as a web designer, web developer, app developer, backend developer or even a stack developer. From developing the concept to the necessary coding and database, we have everything in this course. Creative IT Institute has friendly mentors to ease the difficult journey of your Maran Stack. Opt for the Certified Maroon Stack Development Course to build a career with the times.."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6web4",
+        "category_id": "02",
+        "rating": {
+            "number": 4.3,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "Course_fee": 16000,
+        "title": "App Development",
+        "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1663052092.jpg",
+        "image_url": "https://www.creativeitinstitute.com/images/course/course_1663052092.jpg",
+        "details": "App development is the process of creating applications for use on mobile devices. Among the careers that are in demand in the new era, Android app development tops the list. That's why our courses are designed in such a way that you can learn app development with us from scratch. Here you will get a good idea about components with packages from elementary language. Moreover, students will build a good portfolio before completing the project based Android app development course. So you can get a good start in your career quickly. So if you have a unique app idea, then you can easily create a good Android app by taking this course."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6web5",
+        "category_id": "02",
+        "rating": {
+            "number": 4.2,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "Course_fee": 16000,
+        "title": "Python Django",
+        "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1662801340.jpg",
+        "image_url": "https://www.creativeitinstitute.com/images/course/course_1662801340.jpg",
+        "details": "Currently, about 76% of developers choose Python Django to build any complex web application. All problems can be solved quickly with a large number of easy-to-use libraries. And that's why our course teaches everything from Python's basic logic to prototyping, as well as how to use Django's libraries. Along with that, you can also learn details about the work of the admin panel. BD Jobs or Linked In has numerous jobs related to Python development from within the country or outside the country every day. In this age of competition, this certified course will keep you ahead in the career race. So if you want to learn everything in detail about web development, unit testing and form processing then you are invited to our Python Django course."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6web6",
+        "category_id": "02",
+        "rating": {
+            "number": 4.0,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "Course_fee": 16000,
+        "title": "Python Machine Learning",
+        "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1662804460.jpg",
+        "image_url": "https://www.creativeitinstitute.com/images/course/course_1662804460.jpg",
+        "details": "How to train a machine to do a task is the basic concept of machine learning. So in our course you will learn how to use any algorithm and library. Moreover, you will learn everything from Python basics to logic development from here. Machine learning skills are at the top of the required IT skills in today's era. Machine learning has a lot of career potential in the near future. Currently, the demand for machine learning engineers is increasing in large technology organizations as well as in general organizations. Various organizations are encouraging to use the various information of the organization to get the necessary benefits from it. So if you want to work in machine learning, then machine learning course can be your best career choice."
+    }
+]
