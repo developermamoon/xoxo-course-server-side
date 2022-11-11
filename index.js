@@ -36,6 +36,11 @@ app.get('/course/:id', (req, res) => {
     const selectedCourse = courses.find(n => n._id === id);
     res.send(selectedCourse);
 });
+app.get('/cart/:id', (req, res) => {
+    const id = req.params.id;
+    const selectedCourse = courses.find(n => n._id === id);
+    res.send(selectedCourse);
+});
 
 app.listen(port, () => {
     console.log('XOXO Course Server running on port', port);
